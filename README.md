@@ -191,6 +191,6 @@ Proyek ini dirilis di bawah lisensi **MIT** — bebas digunakan, dimodifikasi, d
 
 ⭐ **Jika proyek ini bermanfaat, jangan lupa beri bintang!** ⭐
 
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME_ANDA/prediksi-cuaca-jember?style=social)](https://github.com/USERNAME_ANDA/prediksi-cuaca-jember)
+[![GitHub stars](https://img.shields.io/github/stars/arielpradhana/prediksi-cuaca-jember?style=social)](https://github.com/arielpradhana/prediksi-cuaca-jember)
 
 </div>
