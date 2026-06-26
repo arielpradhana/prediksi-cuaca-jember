@@ -101,7 +101,7 @@ Ikuti 3 langkah mudah ini untuk menjalankan aplikasi di komputermu sendiri:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME_ANDA/prediksi-cuaca-jember.git
+git clone https://github.com/arielpradhana/prediksi-cuaca-jember.git
 cd prediksi-cuaca-jember
 ```
 
